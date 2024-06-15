@@ -1,1 +1,1 @@
-My first README.md
+This is the 0-hello_ubuntu README
